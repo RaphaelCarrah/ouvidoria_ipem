@@ -1,0 +1,19 @@
+body{
+	background-color: #f0f0f0;
+}
+.cabecalho{
+    color: #4b5898;
+    text-align: center;			
+}
+h1{
+	font-size: 14px;
+}
+h2{
+	font-size: 18px;
+}
+.linha{
+    background-color: #afafaf;
+    height: 254px;
+    width: 2px;
+    margin: auto;
+}
