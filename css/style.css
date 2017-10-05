@@ -1,19 +1,43 @@
 body{
-	background-color: #f0f0f0;
+	background-color: #f5f5f5;
 }
-.cabecalho{
+.topo{
     color: #4b5898;
-    text-align: center;			
+    border-radius: 0px 0px 22px 22px;
+    border-bottom: #cccccc solid 1px;
+    background: #dadada;
+     			
 }
 h1{
 	font-size: 14px;
 }
 h2{
-	font-size: 18px;
+   font-size: 22px;
+    font-family: Calibri;
+    color: #17479b;
+    font-weight: bold;
+    text-align: center;
 }
 .linha{
     background-color: #afafaf;
     height: 254px;
     width: 2px;
     margin: auto;
+}
+.nav{
+	background: #607D8B;
+    height: 43px;
+    margin: 0px;
+    padding-top: 8px;
+
+}
+.titulo{
+	color: white;
+
+}
+.main{
+	background: #02157d;
+    
+    box-shadow: 0px 4px 17px 0px grey;
+    
 }
